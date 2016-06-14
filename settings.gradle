@@ -1,0 +1,3 @@
+include ':app'
+include ':library:slide_chat_lib'
+include ':library:MemorizingTrustManager'
